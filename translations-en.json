@@ -1,0 +1,31 @@
+{
+  "agenda": "Agenda",
+  "networking": "Networking",
+  "networkingDesc": "Meet the top experts in the field (and their jokes) in a relaxed environment – in the middle of the Baltic Sea!",
+  "sustainability": "Sustainable Development: Deposits for the Future",
+  "sustainabilityDesc": "Responsibility is not just a trend – it is the foundation of our lives. Every returned can brings us closer to the next innovative invention (or the next drink).",
+  "keynote": "Keynote-speech: \"Buffet strategies 2025\"",
+  "keynoteDesc": "An in-depth analysis of how to combine traditional ingredient optimization (two rounds of appetizers) with modern innovations (two desserts).",
+  "schedule": {
+    "title": "Timetable",
+    "days": {
+      "7.3.2025": [
+        "17:00: Arrival: Boarding and innovation greetings (first beer)",
+        "19:30: Dinner: Networking at the buffet line",
+        "21:00: Technology session: \"Who remembers their cabin number?\"",
+        "23:00: Drink&Learn: CTO's keynote: \"The Rock in 2025\""
+      ],
+      "8.3.2025": [
+        "9:00: Strategic breakfast hunting: Participants with good teamwork skills face the day’s first challenge: finding the buffet breakfast without a map service or queue management system.",
+        "10:00: Excursion to Systembolaget: A guided tour of the local alcohol monopoly’s selection, aimed at exploring new flavor profiles and strategically comparing products.",
+        "16:00: Iterative navigation optimization: Group members are free to choose their own paths, as long as everyone manages to return to the ship's creative spaces.",
+        "21:00: Craft beer experience workshop: An informal and interactive workshop exploring various aspects of beer consumption: pouring techniques, glass aerodynamics, and lively arguments about brewery superiority.",
+		"23:23: Keynote Speech by Professor Lomb: Artificial Stupidity – The Unexpected Opponent of Artificial Intelligence"
+      ],
+      "9.3.2025": [
+        "08:30: Retrospective review of the cruise’s key lessons. Participants analyze successes and areas for improvement, such as \"optimizing buffet strategies\" and \"avoiding getting lost on deck.\"",
+        "10:00: All participants prepare efficiently for the journey home, leaving the ship in an organized and stylish manner."
+      ]
+    }
+  }
+}

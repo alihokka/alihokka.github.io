@@ -1,0 +1,31 @@
+{
+  "agenda": "Agenda",
+  "networking": "Verkostoituminen",
+  "networkingDesc": "Kohtaa parhaat alan osaajat (ja heidän vitsinsä) rennossa ympäristössä – Itämeren keskellä!",
+  "sustainability": "Kestävä Kehitys: Juomapantit Tulevaisuudelle",
+  "sustainabilityDesc": "Vastuullisuus ei ole vain trendi – se on elämämme perusta. Jokainen palautettu tölkki tuo meidät lähemmäksi seuraavaa innovatiivista keksintöä (tai seuraavaa juomaa).",
+  "keynote": "Keynote-puheenvuoro: \"Buffetstrategiat 2025\"",
+  "keynoteDesc": "Syväluotaava analyysi siitä, kuinka yhdistää perinteinen ruoka-aineiden optimointi (kaksi kierrosta alkuruokaa) ja modernit innovaatiot (kaksi jälkiruokaa).",
+  "schedule": {
+    "title": "Aikataulu",
+    "days": {
+      "7.3.2025": [
+        "17:00: Saapuminen: Boarding ja innovaatioterveiset (ensimmäinen olut)",
+        "19:30: Illallinen: Verkostoitumista buffet-linjaston äärellä",
+        "21:00: Teknologiasessio: \"Kuka muistaa hyttinumeronsa?\"",
+        "23:00: Drink&Learn: CTO Puheenvuoro: \"Kivi vuonna 2025\""
+      ],
+      "8.3.2025": [
+        "9:00: Aamupalan strateginen paikantaminen: Hyvillä tiimityötaidoilla varustetut osallistujat kohtaavat päivän ensimmäisen haasteen: löytää buffetaamiainen ilman karttapalvelua ja jonohallintaohjelmistoa.",
+        "10:00: Ekskursio Systembolagetiin: Opastettu tutustumismatka paikallisen alkoholimonopolin valikoimaan. Tarkoituksena kartoittaa uusia makuprofiileja ja vertailla tuotetarjontaa strategisesti.",
+        "16:00: Iteratiivisen kulkemisen optimointi: Ryhmän jäsenet saavat vapauden valita omat reittinsä, kunhan kaikki onnistuvat palautumaan aluksen luovaan tilaan.",
+        "21:00: Craft beer experience workshop: Vapaamuotoinen ja interaktiivinen työpaja, jossa perehdytään oluen kulutuksen eri osa-alueisiin: kaatotekniikkaan, juomalasin aerodynamiikkaan ja muiden jäsenten kanssa hilpeään argumentointiin panimoiden paremmuudesta.",
+		"23:23: Professori Lombin keynote-puheenvuoro: Tekotyhmyys – Tekoälyn yllättävä vastustaja."
+      ],
+      "9.3.2025": [
+        "08:30: Retrospektiivinen katsaus laivareissun tärkeimpiin oppeihin. Osallistujat analysoivat onnistumisiaan ja kehityskohteitaan, kuten \"buffet-strategioiden optimointi\" ja \"kannella eksymisen välttäminen\".",
+        "10:00: Kaikki jäsenet valmistautuvat tehokkaasti siirtymään kohti kotimatkaa, jättäen aluksen järjestelmällisesti ja tyylikkäästi."
+      ]
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "agenda": "Agenda",
+  "networking": "Nätverkande",
+  "networkingDesc": "Träffa de bästa inom branschen (och deras skämt) i en avslappnad miljö – mitt i Östersjön!",
+  "sustainability": "Hållbar Utveckling: Pant för Framtiden",
+  "sustainabilityDesc": "Ansvar är inte bara en trend – det är grunden för våra liv. Varje burk som returneras tar oss närmare nästa innovativa uppfinning (eller nästa dryck).",
+  "keynote": "Keynote-tal: \"Buffetstrategier 2025\"",
+  "keynoteDesc": "En djupgående analys av hur man kan kombinera traditionell optimering av råvaror (två rundor förrätt) med moderna innovationer (två desserter).",
+  "schedule": {
+    "title": "Tidtabell",
+    "days": {
+      "7.3.2025": [
+        "17:00: Ankomst: Ombordstigning och innovationhälsningar (första ölen)",
+        "19:30: Middag: Nätverkande vid buffélinjen",
+        "21:00: Teknologisession: \"Vem minns sitt hyttnummer?\"",
+        "23:00: Drink&Learn: CTO:s anförande: \"Stenen år 2025\""
+      ],
+      "8.3.2025": [
+        "9:00: Strategisk frukostjakt: Deltagare med goda lagarbetsförmågor möter dagens första utmaning: att hitta bufféfrukosten utan karttjänst och köhanteringssystem.",
+        "10:00: Utflykt till Systembolaget: Guidad tur till det lokala alkoholmonopolets utbud. Målet är att kartlägga nya smakprofiler och strategiskt jämföra produktutbud.",
+        "16:00: Iterativ optimering av resor: Gruppens medlemmar får välja sina egna vägar, så länge alla lyckas återvända till fartygets kreativa utrymmen.",
+        "21:00: Craft beer experience workshop: En informell och interaktiv workshop där deltagarna utforskar olika aspekter av ölkonsumtion: hällteknik, glasets aerodynamik och livliga diskussioner om bryggeriers förträfflighet.",
+		"23:23: Professor Lombs keynote Speech: Artificiell dumhet – den oväntade motståndaren till artificiell intelligens."
+      ],
+      "9.3.2025": [
+        "08:30: Retrospektiv överblick över de viktigaste lärdomarna från kryssningen. Deltagarna analyserar framgångar och förbättringspunkter, som \"bufféstrategiernas optimering\" och \"att undvika att gå vilse på däck\".",
+        "10:00: Alla förbereder sig effektivt för hemresan, lämnar fartyget strukturerat och elegant."
+      ]
+    }
+  }
+}
