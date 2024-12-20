@@ -27,5 +27,11 @@
         "10:00: Kaikki jäsenet valmistautuvat tehokkaasti siirtymään kohti kotimatkaa, jättäen aluksen järjestelmällisesti ja tyylikkäästi."
       ]
     }
+  },
+  "contact": {
+    "title": "Yhteystiedot ja tuki",
+    "description": "Jos sinulla on kysyttävää, tarvitset apua tai haluat vain jakaa ideasi, älä epäröi ottaa yhteyttä. Olemme täällä auttamassa!",
+    "emailLabel": "Sähköposti",
+    "instagramLabel": "Instagram"
   }
 }

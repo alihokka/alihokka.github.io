@@ -27,5 +27,11 @@
         "10:00: Alla förbereder sig effektivt för hemresan, lämnar fartyget strukturerat och elegant."
       ]
     }
+  },
+  "contact": {
+    "title": "Kontaktinformation och support",
+    "description": "Om du har frågor, behöver hjälp eller bara vill dela med dig av dina idéer, tveka inte att höra av dig. Vi är här för att hjälpa dig!",
+    "emailLabel": "e-post",
+    "instagramLabel": "Instagram"
   }
 }

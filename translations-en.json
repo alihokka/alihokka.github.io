@@ -27,5 +27,11 @@
         "10:00: All participants prepare efficiently for the journey home, leaving the ship in an organized and stylish manner."
       ]
     }
+  },
+  "contact": {
+    "title": "Contact Information and Support",
+    "description": "If you have questions, need assistance, or just want to share your ideas, don’t hesitate to reach out. We’re here to help!",
+    "emailLabel": "Email",
+    "instagramLabel": "Instagram"
   }
 }
